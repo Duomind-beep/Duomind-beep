@@ -1,11 +1,11 @@
 ### Hi there, I'm Glynn! 👋  
 
-🔬 **Aspiring Computational Neuroscientist** | 🧠 Passionate About Brain & Behavior | 🎭 Former Sociology & Arts Student  
+🔬 **Aspiring Computational Neuroscientist** | 🧠 Passionate About Brain & Behavior | 🎭 Former Sociology & Art Student  
 
 ---
 
 ### 🚀 About Me  
-- 🎓 Transitioning from **sociology and the arts** to **computational neuroscience**  
+- 🎓 Transitioning from **sociology and art** to **computational neuroscience**  
 - 📚 Self-studying **neuroscience, mathematics, and programming**  
 - 🏗️ Building a foundation in **linear algebra, statistics, and Python**  
 - 🔍 Interested in **neural modeling, brain simulations, and bio-inspired AI**  
