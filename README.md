@@ -1,4 +1,4 @@
-### Hi there, I'm Jonas! 👋  
+### Hi there, I'm Glynn! 👋  
 
 🔬 **Aspiring Computational Neuroscientist** | 🧠 Passionate About Brain & Behavior | 🎭 Former Sociology & Arts Student  
 
