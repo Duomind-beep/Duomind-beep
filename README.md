@@ -1,4 +1,4 @@
-### Hi there, I'm Glynn! 👋  
+### Hi there, I'm Glynn! 👋🏾  
 
 👨🏾‍💻 **Aspiring Computational Neuroscientist** | 🧠 Passionate About Brain & Behavior | 🎭 Former Sociology & Art Student  
 
@@ -33,7 +33,7 @@
 ---
 
 ### 🧠 Thinking, Learning, Building
-- ✍️ Documenting my learning journey in neuroscience & programming.
+- ✍🏾 Documenting my learning journey in neuroscience & programming.
 - 🔬 Exploring the intersection of neuroscience, math, and computation.
 - 💡 Always learning, always questioning.
 
