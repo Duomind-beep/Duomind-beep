@@ -1,6 +1,6 @@
 ### Hi there, I'm Glynn! 👋🏾  
 
-👨🏾‍💻 **Aspiring Computational Neuroscientist** | 🧠 Passionate About Brain & Behavior | 🎭 Former Sociology & Art Student  
+👨🏾‍💻 **Aspiring Computational Neuroscientist** | 🧠 Passionate About Brain & Behavior | 🎭 Former Sociology/Anthropology Student & Artist
 
 ---
 
