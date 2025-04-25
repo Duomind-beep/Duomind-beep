@@ -11,10 +11,10 @@
 ---
 
 ### Current Learning Path  
- **Mathematics**: Linear Algebra, Calculus I-III; Statistics & Probability, and Differential Equations  
- **Computer Science**: Coding, Machine Learning, Data Structures & Algorithms
- **Natural Sciences**: General Biology, Chemisty, and Physics
- **Neuroscience**: Neurobiology, Systems Neuroscience, Computational Models  
+- **Mathematics**: Linear Algebra, Calculus I-III; Statistics & Probability, and Differential Equations  
+- **Computer Science**: Coding, Machine Learning, Data Structures & Algorithms
+- **Natural Sciences**: General Biology, Chemisty, and Physics
+- **Neuroscience**: Neurobiology, Systems Neuroscience, Computational Models  
 
 ---
 
