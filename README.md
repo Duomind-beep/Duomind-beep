@@ -1,6 +1,6 @@
 ### Hi there, I'm Glynn! 👋🏾  
 
-👨🏾‍💻🧠 **Aspiring Computational Neuroscientist | 🔬 Self-studying neurobiology, chemisty, physics, math, & programming | Interested in brain modeling, complex system, & emergent behaviors | Former Artist & Sociology Background**
+👨🏾‍💻🧠 **Aspiring Computational Neuroscientist | 🔬 Self-studying neurobiology, math, & computer science | Former Artist & Sociology Background**
 
 ---
 
@@ -11,15 +11,16 @@
 ---
 
 ### Current Learning Path  
- **Mathematics**: Linear Algebra, Statistics & Probability, Calculus, and Differential Equations  
+ **Mathematics**: Linear Algebra, Calculus I-III; Statistics & Probability, and Differential Equations  
+ **Computer Science**: Coding, Machine Learning, Data Structures & Algorithms
+ **Natural Sciences**: General Biology, Chemisty, and Physics
  **Neuroscience**: Neurobiology, Systems Neuroscience, Computational Models  
- **Coding**: Python for Scientific Computing & Data Visualization  
 
 ---
 
 ### Goals?  
--  Developing my own **neuroscience simulations**
--  Contributing to **open-source computational neuroscience projects**  
--  Preparing for **internships and research opportunities**  
+-  Develop my own **neuroscience simulations**
+-  Contribute to **open-source computational neuroscience projects**  
+-  Prepare for **internships and research opportunities**  
   
 ---
