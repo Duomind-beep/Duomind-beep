@@ -1,6 +1,5 @@
-### Hi there, I'm Glynn! 👋🏾  
-
-👨🏾‍💻🧠 **Aspiring Computational Neuroscientist | 🔬 Self-studying neurobiology, math, & computer science | Former Artist & Sociology Background**
+### Hi there, I'm Glynn!
+ **Aspiring Computational Neuroscientist | Self-studying neurobiology, math, & computer science | Former Artist & Sociology Background**
 
 ---
 
